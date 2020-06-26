@@ -2,7 +2,7 @@
 
 This privacy policy applies to <https://www.masonpohler.com> and is effective June 24th, 2020.
 
-This privacy policy does not apply to the projects hosted on <https://www.masonpohler.com>. Each project has its own privacy policy. For example, the project PC Wonder hosted at <https://www.masonpohler.com/pc-wonder-app> has its privacy policy located at <https://www.masonpohler.com/pc-wonder-app/#/privacy-policy>.
+This privacy policy does not apply to the projects hosted on <https://www.masonpohler.com>. Each project has its own privacy policy. For example, the project PC Wonder hosted at <https://mpohler1.github.io/pc-wonder-app> has its privacy policy located at <https://mpohler1.github.io/pc-wonder-app/#/privacy-policy>.
 
 This site does not share user information with any other organization.
 
